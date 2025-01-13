@@ -76,7 +76,7 @@
 						<h4 class="mb-3">Working Hours</h4>
 						<ul class="w-hours list-unstyled">
 							<li class="d-flex justify-content-between">Mon - Tue  :<span>9:00 - 4:00pm</span></li>
-							<li class="d-flex justify-content-between">Wed - Thur :<span>9:00 - 4:00pm</span></li>
+							<li class="d-flex justify-content-between">Wed - Thurs :<span>9:00 - 4:00pm</span></li>
 							<li class="d-flex justify-content-between">Friday     :<span>9:00 - 4:00pm</span></li>
 						</ul>
 					</div>
