@@ -84,7 +84,7 @@
 	</div>
 </section>
 
-<section class="section team">
+<section class="section team" hidden>
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6">
